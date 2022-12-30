@@ -7,13 +7,8 @@
    </a>
    
    <a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/jamarimcfarlane12/">
-     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="40" height="40">
-
-
-  
+     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="40" height="40">  
    </a>
-
-
 </div>
 
 <br>
@@ -28,3 +23,10 @@ I have worked on many personal projects for fun and I'm sure at least one of the
 
 You can find a preview of some of the favourite projects below. By late 2023 , I should have a portfolio website and a lot more projects on github to back to skills.
 
+
+Currently working on refactoring this car game codebase. Its my first javascript project as a beginner and it was surprisingly good. Currently refactoring and adding new features and challenges to the game.
+
+### 🎮 Evasive Maneuvers 🎮
+
+![rsz_2](https://user-images.githubusercontent.com/71823011/210115821-1c51e7ec-51c0-4446-b7bd-947efe4e43c2.png)
+![rsz_111](https://user-images.githubusercontent.com/71823011/210115822-cc2236b7-0c4c-4a45-8ffc-403048b924cb.png)
