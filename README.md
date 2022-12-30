@@ -26,7 +26,6 @@ You can find a preview of some of the favourite projects below. By late 2023 , I
 
 Currently working on refactoring this car game codebase. Its my first javascript project as a beginner and it was surprisingly good. Currently refactoring and adding new features and challenges to the game.
 
-Currently working on a personal project
 ### 🎮 Evasive Maneuvers 🎮
 
 ![rsz_2](https://user-images.githubusercontent.com/71823011/210115821-1c51e7ec-51c0-4446-b7bd-947efe4e43c2.png)
