@@ -26,5 +26,5 @@ I am a 19-year-old computer science major at the University of the West Indies, 
 
 I have worked on many personal projects for fun and I'm sure at least one of them will impress you.
 
-You can find my projects search the wikipages for preview of the projects currently hosted on github. By late 2023 , I should have a portfolio website and a lot more projects on github.
+You can find a preview of some of the favourite projects below. By late 2023 , I should have a portfolio website and a lot more projects on github to back to skills.
 
