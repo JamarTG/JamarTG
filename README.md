@@ -27,7 +27,7 @@ You can find a preview of some of the favourite projects below. By late 2023 , I
 Currently working on refactoring this car game codebase. Its my first javascript project as a beginner and it was surprisingly good. Currently refactoring and adding new features and challenges to the game. 
 
 <br>
-<a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/jamarimcfarlane12/">video of a previous version</a>
+<a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/jamari-mcfarlane-3b80aa21a/recent-activity/?trk=public_profile-settings_see-all-posts">video of a previous version</a>
 
 ### 🎮 Evasive Maneuvers 🎮
 
