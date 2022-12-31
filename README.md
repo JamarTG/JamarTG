@@ -34,6 +34,21 @@ Currently working on refactoring this car game codebase. Its my first javascript
 ![rsz_2](https://user-images.githubusercontent.com/71823011/210115821-1c51e7ec-51c0-4446-b7bd-947efe4e43c2.png)
 ![rsz_111](https://user-images.githubusercontent.com/71823011/210115822-cc2236b7-0c4c-4a45-8ffc-403048b924cb.png)
 
+
+New features since old version
+===================================
+✔️ GameOver & GameStart Screen
+✔️ GameScreens Navigation
+✔️ Game Stats (eft hand corner)
+
+Features in consideration
+================================
+💻 Vibration Effect on Crash
+💻 Jump reward
+💻 Vibration Effect on Earth quake
+💻 Vibration Effect on Crash
+
+
 ### 🧠 Sudoku 
 
 ![rsz_sud](https://user-images.githubusercontent.com/71823011/210128843-1d99f3a1-0337-4fd4-8e44-468c14d88e89.png)
