@@ -39,14 +39,16 @@ New features since old version
 ===================================
 ✔️ GameOver & GameStart Screen
 ✔️ GameScreens Navigation
-✔️ Game Stats (eft hand corner)
+✔️ Game Stats (Left hand corner)
+✔️ Vibration Effect on Crash
 
 Features in consideration
 ================================
 💻 Vibration Effect on Crash
-💻 Jump reward
-💻 Vibration Effect on Earth quake
+💻 Jump Over Cars
 💻 Vibration Effect on Crash
+💻 Ability to choose cAR Before Game
+
 
 
 ### 🧠 Sudoku 
