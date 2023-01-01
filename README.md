@@ -15,8 +15,6 @@
 
 ### 👋 I'm [Jamari McFarlane](https://github.com/JamarTG)
 
-Join My Discord For Caribbean Programmers (Everyone is Welcomed) : https://discord.gg/kSfHUVta
-
 <br>
 
 I am a 19-year-old computer science major at the University of the West Indies, Mona with a focus on software development. I am passionate about computer science and I've been coding for a while now. 
@@ -25,8 +23,7 @@ I have worked on many personal projects for fun and I'm sure at least one of the
 
 You can find a preview of some of the favourite projects below. By late 2023 , I should have a portfolio website and a lot more projects on github to back to skills.
 
-Currently working on refactoring this car game codebase. Its my first javascript project as a beginner.
-
+Join My Discord For Caribbean Programmers (Everyone is Welcomed) : https://discord.gg/kSfHUVta
 <br>
 <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/jamari-mcfarlane-3b80aa21a/recent-activity/?trk=public_profile-settings_see-all-posts">video of a previous version</a>
 
