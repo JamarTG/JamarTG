@@ -50,5 +50,10 @@ Currently working on refactoring this car game codebase. Its my first javascript
 
 ![rsz_sud](https://user-images.githubusercontent.com/71823011/210128843-1d99f3a1-0337-4fd4-8e44-468c14d88e89.png)
 
+<p>Current Features</p>
+
+✔️ Submit Puzzle Button
+✔️ Solve Puzzle Option
+
 
 
