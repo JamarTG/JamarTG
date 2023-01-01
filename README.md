@@ -38,11 +38,9 @@ Join My Discord For Caribbean Programmers (Everyone is Welcomed) : https://disco
 ✔️ GameScreens Navigation
 ✔️ Game Stats (Left hand corner)
 ✔️ Vibration Effect on Crash
-💻 Vibration Effect on Crash
-💻 Jump Over Cars
-💻 Vibration Effect on Crash
-💻 Ability to choose cAR Before Game
 
+💻 Special Jump Over Cars
+💻 Ability to choose Car Type
 
 
 ### 🧠 Sudoku 
