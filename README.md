@@ -34,13 +34,11 @@ Currently working on refactoring this car game codebase. Its my first javascript
 ![rsz_111](https://user-images.githubusercontent.com/71823011/210115822-cc2236b7-0c4c-4a45-8ffc-403048b924cb.png)
 
 
-<p>New Features</p>
+<p>New Features and Considered Features</p>
 ✔️ GameOver & GameStart Screen
 ✔️ GameScreens Navigation
 ✔️ Game Stats (Left hand corner)
 ✔️ Vibration Effect on Crash
-
-<p>Being Considered</p>
 💻 Vibration Effect on Crash
 💻 Jump Over Cars
 💻 Vibration Effect on Crash
