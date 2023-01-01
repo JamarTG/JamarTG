@@ -15,9 +15,11 @@
 
 ### 👋 I'm [Jamari McFarlane](https://github.com/JamarTG)
 
+Join My Discord For Caribbean Programmers (Everyone is Welcomed) : https://discord.gg/kSfHUVta
+
 <br>
 
-I am a 19-year-old computer science major at the University of the West Indies, Mona with a focus on software development. I am passionate about computer science and I've been coding for a while now. I am the operator of the only Caribbean programming server , a small community called "CodeEndz". If you're interested , you can join here : https://discord.gg/kSfHUVta
+I am a 19-year-old computer science major at the University of the West Indies, Mona with a focus on software development. I am passionate about computer science and I've been coding for a while now. 
 
 I have worked on many personal projects for fun and I'm sure at least one of them will impress you.
 
