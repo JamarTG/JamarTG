@@ -35,14 +35,12 @@ Currently working on refactoring this car game codebase. Its my first javascript
 
 
 # New features since old version
-===================================
 ✔️ GameOver & GameStart Screen
 ✔️ GameScreens Navigation
 ✔️ Game Stats (Left hand corner)
 ✔️ Vibration Effect on Crash
 
 # Features in consideration
-================================
 💻 Vibration Effect on Crash
 💻 Jump Over Cars
 💻 Vibration Effect on Crash
