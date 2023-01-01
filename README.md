@@ -25,7 +25,7 @@ You can find a preview of some of the favourite projects below. By late 2023 , I
 
 Join My Discord For Caribbean Programmers (Everyone is Welcomed) : https://discord.gg/kSfHUVta
 <br>
-<a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/jamari-mcfarlane-3b80aa21a/recent-activity/?trk=public_profile-settings_see-all-posts">video of a previous version</a>
+
 
 ### 🎮 Evasive Maneuvers 🎮
 
