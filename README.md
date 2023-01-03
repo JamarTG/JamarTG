@@ -24,3 +24,6 @@ I have worked on many personal projects for fun and I'm sure at least one of the
 You can find a preview of some of the favourite projects below. By late 2023 , I should have a portfolio website and a lot more projects on github to back to skills.
 
 Join My Discord For Caribbean Programmers (Everyone is Welcomed) : https://discord.gg/kSfHUVta
+
+
+Check Out My Favourite Project : https://github.com/JamarTG/feature-rich-evasive_maneuvers_car_game
