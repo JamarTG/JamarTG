@@ -26,7 +26,7 @@ You can find a preview of some of the favourite projects below. By late 2023 , I
 Join My Discord For Caribbean Programmers (Everyone is Welcomed) : https://discord.gg/kSfHUVta
 
 
-Check Out My Favourite Project "Evasive Maneuvers": 
+Check Out "Evasive Maneuvers": 
 Core of the Codebase => https://github.com/JamarTG/feature-rich-evasive_maneuvers_car_game/blob/master/main.ts
 Game Preview => https://github.com/JamarTG/feature-rich-evasive_maneuvers_car_game/blob/master/readme.md
 
