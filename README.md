@@ -28,4 +28,5 @@ Join My Discord For Caribbean Programmers (Everyone is Welcomed) : https://disco
 
 Check Out My Favourite Project : 
 
-Core of the Codebase => https://github.com/JamarTG/feature-rich-evasive_maneuvers_car_game/main.ts
+Core of the Codebase => Check Out My Favourite Project : Core of the Codebase => https://github.com/JamarTG/feature-rich-evasive_maneuvers_car_game/blob/master/main.ts
+
