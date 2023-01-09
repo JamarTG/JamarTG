@@ -16,7 +16,7 @@
 ### 👋 I'm [Jamari McFarlane](https://github.com/JamarTG)
 <br>
 
-I am a 19-year-old computer science major at the University of the West Indies, Mona with a focus on software development. I am passionate about computer science and I've been coding for a while now. 
+I am a 19-year-old computer science major at the University of the West Indies, Mona with a focus on software development. 
 
 Personal Website   : https://jamari-mcfarlane-cv.vercel.app/ <br>
 Evasive Maneuvers  : https://evasive-maneuvers.vercel.app/ <br>
