@@ -20,4 +20,4 @@ I am a 19-year-old computer science major at the University of the West Indies, 
 
 Personal Website   : https://jamari-mcfarlane-cv.vercel.app/ <br>
 Evasive Maneuvers  : https://evasive-maneuvers.vercel.app/ <br>
-Discord            : https://discord.gg/kSfHUVta
+Discord Server     : https://discord.gg/kSfHUVta
