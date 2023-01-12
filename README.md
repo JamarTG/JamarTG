@@ -20,8 +20,13 @@ I am a 19-year-old computer science major at the University of the West Indies, 
 
 Open to Critique , Contributions , Collaboration!
 
-Personal Website   : https://jamari-mcfarlane-cv.vercel.app/ <br>
+PROJECTS
 Evasive Maneuvers  : https://evasive-maneuvers.vercel.app/ <br>
+Personal Website   : https://jamari-mcfarlane-cv.vercel.app/ <br>
+Flag Trainer       : https://flag-trainer.vercel.app/
+
+
+SOCIALS
 Discord Server     : https://discord.gg/kSfHUVta <br>
 Codingame          : https://www.codingame.com/profile/123b5018f0d8111a81e0f0246e94b91f7821854 <br>
 Hackerrank         : https://www.hackerrank.com/hello_worlder <br>
