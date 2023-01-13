@@ -18,7 +18,7 @@
 
 I am a 19-year-old computer science major at the University of the West Indies, Mona with a focus on software development. 
 
-Open to Critique , Contributions , Collaboration!
+Open to Contributions , Collaboration and Feedback!
 
 PROJECTS <br>
 Evasive Maneuvers  : https://evasive-maneuvers.vercel.app/ <br>
