@@ -14,7 +14,6 @@
 <br>
 
 # I am [Jamari McFarlane](https://github.com/JamarTG)
-19 yo CS student at UWI
 <br>
 <br>
 ![](https://user-images.githubusercontent.com/71823011/212560384-5de4a018-1ee3-4119-b84c-cc2a08a75e0d.jpg)
