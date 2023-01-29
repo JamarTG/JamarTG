@@ -15,20 +15,6 @@
 
 # 👋 I'm [Jamari McFarlane](https://github.com/JamarTG)
 <br>
-I am a 19-year-old computer science major at the University of the West Indies, Mona with a focus on software development. 
+I am a 19-year-old computer science major at the University of the West Indies, Mona. 
 
-Open to Contributions , Collaboration and Feedback!
-
-## PROJECTS <br>
-Evasive Maneuvers  : https://evasive-maneuvers.vercel.app/ <br>
-Personal Website   : https://jamari-mcfarlane-cv.vercel.app/ <br>
-Flag Trainer       : https://flag-trainer.vercel.app/
-
-
-## SOCIALS <br>
-Discord Server     : https://discord.gg/kSfHUVta <br>
-Codingame          : https://www.codingame.com/profile/123b5018f0d8111a81e0f0246e94b91f7821854 <br>
-Hackerrank         : https://www.hackerrank.com/hello_worlder <br>
-Leetcode           : https://leetcode.com/jamarimcfarlane12/
-
-![linkedin](https://user-images.githubusercontent.com/71823011/212560384-5de4a018-1ee3-4119-b84c-cc2a08a75e0d.jpg)
+(https://user-images.githubusercontent.com/71823011/212560384-5de4a018-1ee3-4119-b84c-cc2a08a75e0d.jpg)
