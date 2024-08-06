@@ -7,8 +7,8 @@
 - 💻 Contributes to the 'talawa' projects - [https://github.com/PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation) 
 - 🛠️ Currently working on a tool that creates puzzles from in-game mistakes of a user over a specific time period - a well-needed feature on https://lichess.org/
 
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/5d8fcc27-289e-4137-964c-597319b911e2" alt="description" width="500"/>
+ <div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/5d8fcc27-289e-4137-964c-597319b911e2" alt="description" width="300"/>
 </div>
 
 
