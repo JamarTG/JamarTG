@@ -4,7 +4,7 @@
 
 
 - 🎓 Studies Computer Science at The University of the West Indies, Mona Campus
-- 🛠️ Currently working on Learn From Your Mistakes 2.0 - a well-requested feature on the website https://lichess.org/
+- 🛠️ Currently working on 'Learn From Your Mistakes 2.0' - a well-needed feature on the https://lichess.org/ - a tool that creates puzzles from in-game mistakes.
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/5d8fcc27-289e-4137-964c-597319b911e2" alt="description" width="500"/>
