@@ -8,7 +8,11 @@
 - 🛠️ Working on a tool that improves the 'learn from your mistakes' feature on https://lichess.org/
 
  <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/5d8fcc27-289e-4137-964c-597319b911e2" alt="description" width="300"/>
+  <img src="https://github.com/user-attachments/assets/1e3fdd5c-be87-4f92-90e2-83c011739249" alt="description" width="800"/>
+
+
+
+
 </div>
 
 
