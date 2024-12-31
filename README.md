@@ -8,7 +8,7 @@
 - 🛠️ Working on a tool that improves the 'learn from your mistakes' feature on lichess. See here-> (https://litrainer.vercel.app/)
 
  <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/b575f9a4-8ec5-4bef-b30a-cadcf54f8c41" alt="description" width="800"/>
+  <img src="https://github.com/user-attachments/assets/b0b3cc39-28d9-4982-842a-eb0af0101424" alt="description" width="800"/>
 </div>
 
 
