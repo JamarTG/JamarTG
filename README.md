@@ -7,9 +7,10 @@
 - 💻 Contributes to the 'talawa' projects - [https://github.com/PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation) 
 - 🛠️ Working on a tool that improves the 'learn from your mistakes' feature on lichess. See here-> (https://litrainer.vercel.app/)
 
- <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/b0b3cc39-28d9-4982-842a-eb0af0101424" alt="description" width="800"/>
+<div>
+  <img width="500" src="https://github.com/user-attachments/assets/b0b3cc39-28d9-4982-842a-eb0af0101424" alt="description" />
 </div>
+
 
 
 
