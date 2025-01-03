@@ -1,16 +1,40 @@
 
+# Hi there, I'm Jamari 👋  
 
-![GitHub followers](https://img.shields.io/github/followers/JamarTG?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/JamarTG?style=social) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
+![GitHub followers](https://img.shields.io/github/followers/JamarTG?style=social)  
+![GitHub User's stars](https://img.shields.io/github/stars/JamarTG?style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=JamarTG)  
+
+🎓 **Computer Science Student**  
+I’m pursuing a degree in Computer Science at **The University of the West Indies, Mona Campus**.  
+
+💻 **Open Source Contributor**  
+Actively contributing to [Talawa Projects](https://github.com/PalisadoesFoundation), specifically the [Talawa API](https://github.com/PalisadoesFoundation/talawa-api), a robust framework for community management.  
+
+♟️ **Chess Enthusiast & Developer**  
+Currently building [LiTrainer](https://litrainer.vercel.app/), a tool to enhance the *learn from your mistakes* feature on Lichess.  
+
+---
+
+## 🔨 Technologies & Tools  
+- **Languages:** JavaScript, TypeScript, Python  
+- **Frameworks & Libraries:** React, Node.js, Express.js  
+- **Tools:** VS Code, Vite, Tailwind CSS  
+
+---
 
 
-- 🎓 Studies Computer Science at The University of the West Indies, Mona Campus
-- 💻 Contributes to the 'talawa' projects - [https://github.com/PalisadoesFoundation/talawa-api](https://github.com/PalisadoesFoundation) 
-- 🛠️ Working on a tool that improves the 'learn from your mistakes' feature on lichess. See here-> (https://litrainer.vercel.app/)
 
-<div>
-  <img width="500" src="https://github.com/user-attachments/assets/ec0e5bde-e4b8-4eed-ba12-cf05a1f3e46e" alt="description" />
+## 🌟 Current Project  
 
-</div>
+### 🎯 [LiTrainer](https://litrainer.vercel.app/)  
+A web-based tool for chess enthusiasts to improve gameplay by analyzing mistakes and finding optimal moves.  
+---
+
+## Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jamari/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logo
 
 
 
