@@ -10,13 +10,3 @@ A web-based tool for chess enthusiasts to improve gameplay by analyzing mistakes
 <br/>
 <img src="https://github.com/user-attachments/assets/18351ae8-6675-47b9-8ffd-2d083903f8da" alt="Chessboard Screenshot" width="350" />
 <img src="https://github.com/user-attachments/assets/98e52218-36f3-48e6-bdfa-393e0650acf8" alt="Chessboard Screenshot" width="300" />
-
-
-## 🔨 Technologies & Tools  
-- **Languages:** JavaScript, TypeScript, Python  
-- **Frameworks & Libraries:** React, Node.js, Express.js  
-- **Tools:** VS Code, Vite, Tailwind CSS  
-
----
-
-
