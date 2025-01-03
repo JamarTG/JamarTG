@@ -5,7 +5,7 @@ Hi, I'm a 21 year old programming and chess enthusiast from Jamaica. I’m also 
 
 ---
 
-### I'm currently working on [LiTrainer](https://litrainer.vercel.app/)  
+### I'm currently working on [LiTrainer](https://litrainer.vercel.app/)♟️  
 A web-based tool for chess enthusiasts to improve gameplay by analyzing mistakes and finding optimal moves.  
 <br/>
 <img src="https://github.com/user-attachments/assets/18351ae8-6675-47b9-8ffd-2d083903f8da" alt="Chessboard Screenshot" width="350" />
