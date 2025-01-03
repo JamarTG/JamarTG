@@ -1,7 +1,7 @@
 
 # Hi, I'm Jamari McFarlane 👋  
 
-Hi, I'm a 21 year old programming and chess enthusiast from Jamaica. I’m also pursuing a degree in Computer Science at **The University of the West Indies, Mona Campus**. I'm also a contributor to the [Talawa Open Souce Projects](https://github.com/PalisadoesFoundation). Currently, I'm building [LiTrainer](https://litrainer.vercel.app/), a tool to enhance the *learn from your mistakes* feature on lichess.org (my favourite chess site) and I'm also exploring cloud technologies particularly Azure.
+Hi, I'm a 21 year old programming and chess enthusiast from Jamaica. I’m also pursuing a degree in Computer Science at **The University of the West Indies, Mona Campus**. I'm also a contributor to the [Talawa Open Source Projects](https://github.com/PalisadoesFoundation). Currently, I'm building [LiTrainer](https://litrainer.vercel.app/), a tool to enhance the *learn from your mistakes* feature on lichess.org (my favourite chess site) and I'm also exploring cloud technologies particularly Azure.
 
 ---
 
