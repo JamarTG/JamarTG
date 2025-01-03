@@ -9,7 +9,7 @@
 I’m pursuing a degree in Computer Science at **The University of the West Indies, Mona Campus**.  
 
 💻 **Open Source Contributor**  
-Actively contributing to [Talawa Projects](https://github.com/PalisadoesFoundation), specifically the [Talawa API](https://github.com/PalisadoesFoundation/talawa-api), a robust framework for community management.  
+Contributes to the [Talawa Projects](https://github.com/PalisadoesFoundation).  
 
 ♟️ **Chess Enthusiast & Developer**  
 Currently building [LiTrainer](https://litrainer.vercel.app/), a tool to enhance the *learn from your mistakes* feature on Lichess.  
