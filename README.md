@@ -5,8 +5,10 @@ Hi, I'm a 21 year old programming and chess enthusiast from Jamaica. I’m also 
 
 ---
 
-### I'm currently working on [LiTrainer](https://litrainer.vercel.app/)♟️  
-A web-based tool for chess enthusiasts to improve gameplay by analyzing mistakes and finding optimal moves.  
+### I'm currently working on [Cage Match Arena](https://cage-match-uilx.vercel.app/) and [LiTrainer](https://litrainer.vercel.app/)
+
 <br/>
-<img src="https://github.com/user-attachments/assets/18351ae8-6675-47b9-8ffd-2d083903f8da" alt="Chessboard Screenshot" width="450" />
-<img src="https://github.com/user-attachments/assets/98e52218-36f3-48e6-bdfa-393e0650acf8" alt="Chessboard Screenshot" width="385" />
+<img src="https://github.com/user-attachments/assets/9b92863f-845b-4fe7-a483-03b81bfe7486" alt="Chessboard Screenshot]" width="440" />
+<img src="https://github.com/user-attachments/assets/dfccc77d-d8e6-440e-9e5f-c42535dd271a" alt="Chessboard Screenshot" width="505" />
+
+
