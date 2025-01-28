@@ -8,7 +8,9 @@ Hi, I'm a 21 year old programming and chess enthusiast from Jamaica. I’m also 
 ### I'm currently working on [Cage Match Arena](https://cage-match-uilx.vercel.app/) and [LiTrainer](https://litrainer.vercel.app/)
 
 <br/>
-<img src="https://github.com/user-attachments/assets/9b92863f-845b-4fe7-a483-03b81bfe7486" alt="Chessboard Screenshot]" width="410" />
+
+Preview of Litraienr
+
 <img src="https://github.com/user-attachments/assets/dfccc77d-d8e6-440e-9e5f-c42535dd271a" alt="Chessboard Screenshot" width="470" />
 
 
