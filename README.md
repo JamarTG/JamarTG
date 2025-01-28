@@ -5,7 +5,7 @@ Hi, I'm a 21 year old programming and chess enthusiast from Jamaica. I’m also 
 
 ---
 
-### I'm currently working on [Cage Match Arena](https://cage-match-uilx.vercel.app/) and [LiTrainer](https://litrainer.vercel.app/)
+### I'm currently working on 3 chess projects. [Cage Match Arena](https://cage-match-uilx.vercel.app/), [LiTrainer](https://litrainer.vercel.app/) and Personal Woodpecker Training Method Website
 
 <br/>
 
