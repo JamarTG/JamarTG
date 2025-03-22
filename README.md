@@ -8,7 +8,7 @@ Hi, I'm a 21 year old programming and chess enthusiast from Jamaica. I’m also 
 
 <br/>
 
-Preview of Litraienr
+Preview of Litrainer
 
 <img src="https://github.com/user-attachments/assets/dfccc77d-d8e6-440e-9e5f-c42535dd271a" alt="Chessboard Screenshot" width="470" />
 
