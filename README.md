@@ -1,20 +1,22 @@
 # I'm Jamari McFarlane 👋  
 
-## Latest Projects and Collaborations
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px;">
+  <div style="background: white; padding: 16px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <h3 style="font-size: 1.5rem; font-weight: bold;">Working on my capstone project: AI-Powered CSEC IT Tutor</h3>
+    A CSEC IT tutor using React, Node.js (Express), MongoDB, LLMs (Llama 3, Mistral), and RAG 
+    <img src="https://github.com/user-attachments/assets/56b2767a-7de0-40ee-b7e1-9fb04be78575" alt="CSEC IT Tutor Preview" style="border-radius: 8px; width: 50%; height: auto; margin-top: 12px;">
+  </div>
 
-### **Capstone Project: AI-Powered CSEC IT Tutor**  
-I'm currently developing a **CSEC IT tutor** using React, Node.js (Express), MongoDB, LLMs (**Llama 3, Mistral**), and **RAG**  
+  <hr>
 
-![CSEC IT Tutor Preview](https://github.com/user-attachments/assets/56b2767a-7de0-40ee-b7e1-9fb04be78575)  
-
----
-
-### **LiTrainer: Enhance Your Lichess Training**  
-A tool that improves the 'Learn From Your Mistakes' feature on Lichess by providing structured insights and practice.  
-
-![image](https://github.com/user-attachments/assets/24496101-4be9-4552-b764-dc73d963f02a)
+  <div style="background: white; padding: 16px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <h3 style="font-size: 1.5rem; font-weight: bold;">Building LiTrainer: Enhance Your Lichess Training</h3>
+    Improvement to the 'Learn From Your Mistake Feature' on Lichess using the Latest Stockfish Engine & Lichess API
+    <img src="https://github.com/user-attachments/assets/24496101-4be9-4552-b764-dc73d963f02a" alt="LiTrainer Project" style="border-radius: 8px; width: 50%; height: auto; margin-top: 12px;">
+  </div>
+</div>
 
 ---
 
 ### 📫 **Let's Connect!**  
-📧 **Email:** jamarimcfarlane12@gmail.com  
+📧 **Email:** jamarimcfarlane12@gmail.com
