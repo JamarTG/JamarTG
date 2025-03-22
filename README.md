@@ -1,15 +1,20 @@
+# I'm Jamari McFarlane 👋  
 
-# Hi, I'm Jamari McFarlane 👋  
+## Latest Projects and Collaborations
 
-Hi, I'm a 21 year old programming and chess enthusiast from Jamaica. I’m also pursuing a degree in Computer Science at **The University of the West Indies, Mona Campus**. I'm also a contributor to the [Talawa Open Source Projects](https://github.com/PalisadoesFoundation). Currently, I'm building [LiTrainer](https://litrainer.vercel.app/), a tool to enhance the *learn from your mistakes* feature on [Lichess](https://lichess.org/)
+### **Capstone Project: AI-Powered CSEC IT Tutor**  
+I'm currently developing a **CSEC IT tutor** using React, Node.js (Express), MongoDB, LLMs (**Llama 3, Mistral**), and **RAG**  
+
+![CSEC IT Tutor Preview](https://github.com/user-attachments/assets/56b2767a-7de0-40ee-b7e1-9fb04be78575)  
 
 ---
 
+### **LiTrainer: Enhance Your Lichess Training**  
+A tool that improves the 'Learn From Your Mistakes' feature on Lichess by providing structured insights and practice.  
 
-<br/>
+![image](https://github.com/user-attachments/assets/24496101-4be9-4552-b764-dc73d963f02a)
 
-Preview of Litrainer
+---
 
-<img src="https://github.com/user-attachments/assets/dfccc77d-d8e6-440e-9e5f-c42535dd271a" alt="Chessboard Screenshot" width="470" />
-
-
+### 📫 **Let's Connect!**  
+📧 **Email:** jamarimcfarlane12@gmail.com  
