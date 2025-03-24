@@ -1,4 +1,4 @@
-<h3>I just like typing...</h3>  
+<h3>Hi, I'm Jamari.. I'm a lover of logic and typing...</h3>  
 
 ## 🛠 Tech Stack  
 **Frontend:** React + TypeScript, VueJS, HTML, CSS, JavaScript  
