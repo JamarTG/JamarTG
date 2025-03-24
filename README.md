@@ -1,5 +1,12 @@
-# I'm Jamari McFarlane 👋  
+# Jamari McFarlane | I just like typing...  
 
+## 🛠 Tech Stack  
+**Frontend:** React + TypeScript, VueJS, HTML, CSS, JavaScript  
+**Backend:** Node.js (Express), MongoDB, MySQL, Flask  
+**Tools & Other:** Git, Postman, REST & GraphQL APIs  
+**Learning:** Docker & Cloud Technologies  
+
+---
 
 <img src="https://github.com/user-attachments/assets/24496101-4be9-4552-b764-dc73d963f02a" width="400" height="200">
 <img src="https://github.com/user-attachments/assets/8c22554b-a833-461a-bb4f-8f41add0b42c" width="200" height="200">
@@ -11,16 +18,7 @@
 <img src="https://github.com/user-attachments/assets/2214f70f-8b6c-4835-9dfa-e8202c9c52f8" width="300" height="200">
 <img src="https://github.com/user-attachments/assets/e7484d76-ec98-46d6-b428-9af6d860c151" width="400" height="200">
 
-
-
-
-
-
-
-
-
-
 ---
 
 ### 📫 **Let's Connect!**  
-📧 **Email:** jamarimcfarlane12@gmail.com
+📧 Email: jamarimcfarlane12@gmail.com  
