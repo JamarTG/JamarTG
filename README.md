@@ -1,4 +1,4 @@
-# Jamari McFarlane | I just like typing...  
+<h3>I just like typing...</h3>  
 
 ## 🛠 Tech Stack  
 **Frontend:** React + TypeScript, VueJS, HTML, CSS, JavaScript  
