@@ -1,4 +1,6 @@
-<h3>Hi, I'm Jamari.. I'm a lover of logic and typing...</h3>  
+Jamari McFarlane
+Computer Science Student @ UWI Mona
+
 
 ## 🛠 Tech Stack  
 **Frontend:** React + TypeScript, VueJS, HTML, CSS, JavaScript  
@@ -8,7 +10,7 @@
 
 ---
 
-## Preview of some of my projects
+Random visual of some things I coded
 
 <img src="https://github.com/user-attachments/assets/24496101-4be9-4552-b764-dc73d963f02a" width="200" height="100">
 <img src="https://github.com/user-attachments/assets/8c22554b-a833-461a-bb4f-8f41add0b42c" width="200" height="100">
