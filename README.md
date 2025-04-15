@@ -1,26 +1,29 @@
-Jamari McFarlane
-Computer Science Student @ UWI Mona
+### tech stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
-## 🛠 Tech Stack  
-**Frontend:** React + TypeScript, VueJS, HTML, CSS, JavaScript  
-**Backend:** Node.js (Express), MongoDB, MySQL, Flask  
-**Tools & Other:** Git, Postman, REST & GraphQL APIs  
-**Learning:** Docker & Cloud Technologies  
+### current project(s)
 
----
+**AI-Powered CSEC IT Tutor**  - Helping students ace their exams with personalized learning, quizzes, and progress tracking.
 
-Random visual of some things I coded
+![AI IT Tutor](https://github.com/user-attachments/assets/24acbbe9-baf4-4521-b23b-8ab2274bced9)
 
-<img src="https://github.com/user-attachments/assets/24496101-4be9-4552-b764-dc73d963f02a" width="200" height="100">
-<img src="https://github.com/user-attachments/assets/8c22554b-a833-461a-bb4f-8f41add0b42c" width="200" height="100">
-<img src="https://github.com/user-attachments/assets/652de196-f445-43f7-9350-24799d8dbb2c" width="200" height="100">
-<img src="https://github.com/user-attachments/assets/05f794e1-f225-4cd2-82b0-4070d7fd60ca" width="200" height="100">
-<img src="https://github.com/user-attachments/assets/b1ea0f0a-78c5-4d45-b744-1cc94852a74b" width="200" height="100">
-<img src="https://github.com/user-attachments/assets/d7fc86ff-3424-4ea1-8faa-dd38c8b97257" width="200" height="100">
-<img src="https://github.com/user-attachments/assets/f5dace10-d894-4c0a-80ed-9753e67a9d0f" width="200" height="100">
 
----
+### contact me
 
-### 📫 **Let's Connect!**  
-📧 Email: jamarimcfarlane12@gmail.com  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamarimcfarlane12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamarimcfarlane/)
+
