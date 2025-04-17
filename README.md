@@ -14,14 +14,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-
-### current project(s)
-
-**AI-Powered CSEC IT Tutor**  - Helping students ace their exams with personalized learning, quizzes, and progress tracking.
-
-![AI IT Tutor](https://github.com/user-attachments/assets/24acbbe9-baf4-4521-b23b-8ab2274bced9)
-
-
 ### contact me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamarimcfarlane12@gmail.com)
