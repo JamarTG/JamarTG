@@ -1,9 +1,9 @@
-### I'm currently working on
+### Currently Building
 
 [![CSEC IT Adaptive Learning System](https://img.shields.io/badge/GitHub-Project-blue?style=for-the-badge&logo=github)](https://github.com/JamarTG/csec-it-adaptive-learning-system)  
 Adaptive Learning System for Information Technology CSEC
 
-### Tech stack
+### Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -19,12 +19,12 @@ Adaptive Learning System for Information Technology CSEC
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Currently learning
+### Currently Learning
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-8C52FF?style=for-the-badge&logo=ethereum&logoColor=white)
 
-### Contact me
+### Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamarimcfarlane12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamarimcfarlane/)
 
