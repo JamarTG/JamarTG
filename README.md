@@ -3,6 +3,12 @@
 [![CSEC IT Adaptive Learning System](https://img.shields.io/badge/GitHub-Project-blue?style=for-the-badge&logo=github)](https://github.com/JamarTG/csec-it-adaptive-learning-system)  
 Adaptive Learning System for Information Technology CSEC
 
+
+
+https://github.com/user-attachments/assets/8a5b2846-d5b1-4182-94b6-dd23cb7f872b
+
+
+
 ### Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
