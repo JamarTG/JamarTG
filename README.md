@@ -1,13 +1,8 @@
 ### Currently Building
 
-[![CSEC IT Adaptive Learning System](https://img.shields.io/badge/GitHub-Project-blue?style=for-the-badge&logo=github)](https://github.com/JamarTG/csec-it-adaptive-learning-system)  
-Adaptive Learning System for Information Technology CSEC
-
-
-
-https://github.com/user-attachments/assets/8a5b2846-d5b1-4182-94b6-dd23cb7f872b
-
-
+[![CSEC IT Adaptive Learning System](https://img.shields.io/badge/GitHub-Project-blue?style=for-the-badge&logo=github)](https://github.com/JamarTG/csec-it-adaptive-learning-system)   
+<br>
+<i>Adaptive Learning System for Information Technology CSEC</i>
 
 ### Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -24,8 +19,6 @@ https://github.com/user-attachments/assets/8a5b2846-d5b1-4182-94b6-dd23cb7f872b
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Currently Learning
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-8C52FF?style=for-the-badge&logo=ethereum&logoColor=white)
