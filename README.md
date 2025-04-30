@@ -1,8 +1,7 @@
-### Currently Building
+### Working on
 
 [![CSEC IT Adaptive Learning System](https://img.shields.io/badge/GitHub-Project-blue?style=for-the-badge&logo=github)](https://github.com/JamarTG/csec-it-adaptive-learning-system)   
-<br>
-<i>Adaptive Learning System for Information Technology CSEC</i>
+
 
 ### Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
