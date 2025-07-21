@@ -1,7 +1,7 @@
 ![akselav-cat](https://github.com/user-attachments/assets/66fb8b82-9672-4bcf-8807-dd35c3d994cf)
 
 
-  <sub>Jamar McFarlane 🇯🇲 — Finalizing CS student at UWI. Passionate about chess and software</sub>
+Jamar McFarlane 🇯🇲
 
 
 #### Languages and Frameworks
