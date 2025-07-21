@@ -1,7 +1,7 @@
 ![akselav-cat](https://github.com/user-attachments/assets/66fb8b82-9672-4bcf-8807-dd35c3d994cf)
 
 
-Jamar McFarlane 🇯🇲
+Jamari McFarlane 🇯🇲
 
 
 #### Languages and Frameworks
