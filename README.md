@@ -15,12 +15,5 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-#### Projects & Contributions
-
-[![](https://img.shields.io/badge/-AI%20IT%20Tutor-000)](https://github.com/JamarTG/ai-it-tutor)  
-[![](https://img.shields.io/badge/-Litrainer-000)](https://github.com/JamarTG/litrainer)  
-[![](https://img.shields.io/badge/-Talawa%20api-000)](https://github.com/PalisadoesFoundation/talawa-api)  
-[![](https://img.shields.io/badge/-Talawa%20admin-000)](https://github.com/PalisadoesFoundation/talawa-admin)
-
 
 
