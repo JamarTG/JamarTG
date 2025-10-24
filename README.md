@@ -1,10 +1,13 @@
-![akselav-cat](https://github.com/user-attachments/assets/66fb8b82-9672-4bcf-8807-dd35c3d994cf)
+# Jamari McFarlane 
+
+Software Developer | MERN Stack | TypeScript | Java
+
+Passionate about software and building cool things.  
+
+I've been coding since I was 14 and started web development at 16 — been hooked ever since.
 
 
-Jamari McFarlane 🇯🇲
-
-
-#### Languages and Frameworks
+### 🛠️ Languages & Frameworks  
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
@@ -14,6 +17,19 @@ Jamari McFarlane 🇯🇲
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring-Boot)
+
+
+
+### ⚙️ Tools I Use  
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
 
 
