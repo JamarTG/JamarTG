@@ -28,8 +28,7 @@ I've been coding since I was 14 and started web development at 16 — been hooke
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+
 
 
 
