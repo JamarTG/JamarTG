@@ -1,6 +1,3 @@
-# Jamari McFarlane 
-
-Software Developer | MERN Stack | TypeScript | Java
 
 Passionate about software and building cool things. I've been coding since the age of 14 and started web development at 18 — been hooked ever since.
 
@@ -26,6 +23,7 @@ Passionate about software and building cool things. I've been coding since the a
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+
 
 
 
