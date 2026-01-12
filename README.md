@@ -8,7 +8,8 @@ I work primarily on Bitbucket, but I’m currently reading these books:
 </br>
 
 Also, check out my litrainer (I'll get back to it in a year or 2 lol) </br>
-[GitHub](https://github.com/JamarTG/litrainer) • [Live Demo](https://litrainer.vercel.app)
+[Repo](https://github.com/JamarTG/litrainer) • [Live](https://litrainer.vercel.app)
+
 
 
 
