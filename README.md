@@ -1,4 +1,4 @@
-I work primarily on Bitbucket, but I’m currently reading these books:
+Currently reading these books:
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
   <img src="https://github.com/user-attachments/assets/ccfcddc6-97bc-4f08-8875-f10dd707152a" width="150" />
@@ -9,6 +9,7 @@ I work primarily on Bitbucket, but I’m currently reading these books:
 
 Also, check out my litrainer (I'll get back to it in a year or 2 lol) </br>
 [Repo](https://github.com/JamarTG/litrainer) • [Live](https://litrainer.vercel.app)
+
 
 
 
