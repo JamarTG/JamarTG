@@ -1,5 +1,5 @@
 
-Hi! 👋  I'm Jamari. I'm a proficient MERN dev exploring other technologies
+Hi! 👋  I'm Jamari
 
 I am currently reading this book
 
@@ -8,10 +8,4 @@ I am currently reading this book
 
 Check out my last project @litrainer.vercel.app. 
 
-
-
-I can't find time for personal projects nowadays and I now work on bitbucket
-
-I'm a chess lover and a very very strong player. Send a challenge to TheSadisticBiscuit on chess.com
-
-
+<img width="417" height="907" alt="image" src="https://github.com/user-attachments/assets/7343f402-c4bc-4de2-8d07-2cf6cfc7ca79" />
