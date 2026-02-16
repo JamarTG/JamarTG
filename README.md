@@ -4,12 +4,9 @@
   Full-Stack Developer - Mostly harmless, occasionally brilliant
 </h4>
 
-- 🔭 I’m currently working on **Rewriting Legacy Codebase for Attorney General's Chambers Office**
-- 🌱 I’m currently learning **.NET Core Web API and Entity Framework**
-- 🤝 I’m looking for help with [Litrainer](https://github.com/JamarTG/litrainer)
-- 💬 Ask me about **Chess and Software Development**
-- 📫 How to reach me **jamarimcfarlane12@gmail.com**
+<h3> Check out my latest personal project </h3>
 
+<img width="518" height="707" alt="image" src="https://github.com/user-attachments/assets/582595f0-9c96-49b8-a41e-d7fdabd0c6b4" />
 
 <h3 align="left">Frontend Development</h3>
 <p align="left">
@@ -31,3 +28,4 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,vite,webpack,azure,vercel" />
   </a>
 </p>
+
