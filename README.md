@@ -1,8 +1,7 @@
-<h1 align="left">Hi 👋, I'm Jamari McFarlane   <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/jm.svg" alt="Jamaica" width="40" height="25" style="vertical-align:middle; margin-left:5px;"/></h1>
 
 
 <p align="center">
-  <h3> Check out my latest personal project </h3>
+  <h3> Latest </h3>
   <a href="https://litrainer.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_Site-Visit-22c55e?style=for-the-badge" />
   </a>
@@ -31,6 +30,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,vite,webpack,azure,vercel" />
   </a>
 </p>
+
 
 
 
