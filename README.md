@@ -1,8 +1,4 @@
-<h1 align="left">Hi 👋, I'm Jamari McFarlane</h1>
-<h4 align="left">
-  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/jm.svg" alt="Jamaica" width="25" height="18" style="vertical-align:middle; margin-left:5px;"/>
-  Full-Stack Developer - Mostly harmless, occasionally brilliant
-</h4>
+<h1 align="left">Hi 👋, I'm Jamari McFarlane   <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/jm.svg" alt="Jamaica" width="40" height="25" style="vertical-align:middle; margin-left:5px;"/></h1>
 
 
 <p align="center">
@@ -35,6 +31,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,vite,webpack,azure,vercel" />
   </a>
 </p>
+
 
 
 
