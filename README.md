@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <h3> Latest </h3>
+  <h3> Latest Project </h3>
   <a href="https://litrainer.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_Site-Visit-22c55e?style=for-the-badge" />
   </a>
@@ -30,6 +30,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,vite,webpack,azure,vercel" />
   </a>
 </p>
+
 
 
 
