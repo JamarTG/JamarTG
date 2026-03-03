@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,postgresql,mysql,mongodb" />
   </a>  
 </p>
 
@@ -16,6 +16,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,vite,webpack,azure,vercel" />
   </a>
 </p>
+
 
 
 
