@@ -5,7 +5,7 @@
       <br>
       <p>Description: JUTC bus travel smarter with community insight, bus reporting and prediction</p>
       <p>Repo: https://github.com/JamarTG/0ride2gedda</p>
-      <p>Stack: C# ASP.NET Core, SQL Ser0ver, SignalR, React, Typescript</p>
+      <p>Stack: C# ASP.NET Core, PostgreSQL, SignalR, React, Typescript</p>
       <img width="695" height="412" alt="localhost_8080_routes (2)" src="https://github.com/user-attachments/assets/4bfadeaf-8ad3-4cce-8c09-e15201aece49" />
     </td>
     
@@ -16,6 +16,7 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=react,js,typescript,html,css,tailwind,cs,dotnet,nodejs,express,postgresql,mysql,mongodb,git,github,docker,postman,npm,vite,webpack,azure,vercel" />
 </p>
+
 
 
 
