@@ -2,7 +2,6 @@
   <tr>
     <td align="center" style="border:none;">
       <h3>Currently Building ...</h3>
-      <br>
       <p>Description: App that creates a smarter JUTC bus travel using community insight, bus reporting and bus predictions</p>
       <p>Repo: https://github.com/JamarTG/ride2gedda</p>
       <p>Stack: C# ASP.NET Core, PostgreSQL, SignalR, React, Typescript</p>
@@ -16,6 +15,7 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=react,js,typescript,html,css,tailwind,cs,dotnet,nodejs,express,postgresql,mysql,mongodb,git,github,docker,postman,npm,vite,webpack,azure,vercel" />
 </p>
+
 
 
 
