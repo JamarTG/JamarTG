@@ -11,8 +11,9 @@
   <br>
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,js,typescript,html,css,tailwind,cs,dotnet,nodejs,express,postgresql,mysql,mongodb,git,github,docker,postman,npm,vite,webpack,azure,vercel" />
+    <img width="600" src="https://skillicons.dev/icons?i=react,js,typescript,html,css,tailwind,cs,dotnet,nodejs,express,postgresql,mysql,mongodb,git,github,docker,postman,npm,vite,webpack,azure,vercel" />
 </p>
+
 
 
 
