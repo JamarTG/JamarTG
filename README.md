@@ -10,8 +10,9 @@
   </tr>
   <br>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,cs,dotnet,go,nodejs,express,postgres,mysql,mongodb,git,github,docker,postman,npm,vite,webpack,azure,vercel,vscode,visualstudio&perline=41" />
+  <img width=450 src="https://skillicons.dev/icons?i=react,ts,cs,dotnet,go,nodejs,express,postgres,mongodb,docker,git,github,azure&perline=41" />
 </p>
+
 
 
 
